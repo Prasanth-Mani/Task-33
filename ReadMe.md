@@ -1,0 +1,1 @@
+SQLBolt task Learn SQL with simple, interactive exercises. Attached screenshot for each lessons in document.
